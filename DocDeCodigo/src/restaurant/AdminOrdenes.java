@@ -2,7 +2,9 @@ package restaurant;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author Francisco Lopez
+ * */
 public class AdminOrdenes {
 	List<Pedido> pedidos;
 
